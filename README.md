@@ -12,5 +12,10 @@ My Finished Version:
 ![Finished Version](/images/FoxwellDog-Party.png)
 
 Mobile Version:
+Top
 
-![Finished Version](/images/Mobile1.png)  ![Finished Version](/images/Mobile2.png)
+![Finished Version](/images/Mobile1.png) 
+
+Bottom
+
+![Finished Version](/images/Mobile2.png)
